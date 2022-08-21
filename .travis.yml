@@ -23,4 +23,4 @@ deploy:
   bucet_name: "elasticbeanstalk-ap-northeast-2-545782110066"
   buket_path: "docker-react-app"
   on:
-    branch: master
+    branch: main
